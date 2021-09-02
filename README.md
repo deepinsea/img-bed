@@ -1,2 +1,2 @@
-# cdn
-静态资源加速
+# img-bed
+Github图床
